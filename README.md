@@ -18,7 +18,7 @@ Sou um desenvolvedor apaixonado por tecnologia e automação. Gosto de tirar ide
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,git,github,linux&perline=10" alt="Minhas Habilidades" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,postgres,python,c,git,github,linux&perline=10" alt="Minhas Habilidades" />
   </a>
 </p>
 
