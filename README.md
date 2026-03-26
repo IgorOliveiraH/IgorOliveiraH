@@ -29,12 +29,6 @@ Sou um desenvolvedor focado em construir soluções eficientes e escaláveis. Tr
 
 <br>
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorOliveiraH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Igor" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorOliveiraH&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
 
 
 ### 📫 Como me encontrar
