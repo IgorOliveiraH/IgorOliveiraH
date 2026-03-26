@@ -1,10 +1,15 @@
 # Olá, eu sou o Igor! 👋
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer_Science-Student-blue?style=for-the-badge&logo=education&logoColor=white" alt="Computer Science Student" />
+  <img src="https://img.shields.io/badge/UFU-Federal_University_of_Uberlândia-red?style=for-the-badge&logo=google&logoColor=white" alt="UFU Federal University of Uberlândia" />
+</p>
+
 <br>
 
 ### 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia e automação. Gosto de tirar ideias do papel e transformá-las em sistemas reais, unindo software e hardware quando necessário.
+Sou um desenvolvedor focado em construir soluções eficientes e escaláveis. Transformo problemas complexos em sistemas automatizados, unindo uma forte base teórica com desenvolvimento prático.
 
 * 🎓 Graduando em **Ciência da Computação** pela Universidade Federal de Uberlândia (UFU).
 * 🎓 Graduado pelo Instituto Federal de Minas Gerais (IFMG) - Técnico em Informática.
@@ -18,12 +23,18 @@ Sou um desenvolvedor apaixonado por tecnologia e automação. Gosto de tirar ide
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,postgres,python,c,git,github,linux&perline=10" alt="Minhas Habilidades" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,postgres,mysql,git,github,linux,docker&perline=10" alt="Minhas Habilidades" />
   </a>
 </p>
 
 <br>
 
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorOliveiraH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Igor" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorOliveiraH&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
 
 
 ### 📫 Como me encontrar
