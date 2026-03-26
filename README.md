@@ -24,14 +24,7 @@ Sou um desenvolvedor apaixonado por tecnologia e automação. Gosto de tirar ide
 
 <br>
 
-### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Igor" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
-
-<br>
 
 ### 📫 Como me encontrar
 
