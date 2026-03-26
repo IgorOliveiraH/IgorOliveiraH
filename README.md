@@ -1,8 +1,9 @@
 # Olá, eu sou o Igor! 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer_Science-Student-blue?style=for-the-badge&logo=education&logoColor=white" alt="Computer Science Student" />
-  <img src="https://img.shields.io/badge/UFU-Federal_University_of_Uberlândia-red?style=for-the-badge&logo=google&logoColor=white" alt="UFU Federal University of Uberlândia" />
+<p align="left">
+  <img src="https://img.shields.io/badge/UFU-Federal_University_of_Uberlândia-red?style=for-the-badge&logo=google&logoColor=white" alt="UFU Student" />
+  <img src="https://img.shields.io/badge/Computer_Science-Student-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Computer Science" />
+  <img src="https://img.shields.io/badge/Backend_&_Automation-Engineer-blue?style=for-the-badge&logo=cog&logoColor=white" alt="Backend & Automation" />
 </p>
 
 <br>
@@ -23,7 +24,7 @@ Sou um desenvolvedor focado em construir soluções eficientes e escaláveis. Tr
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,postgres,mysql,git,github,linux,docker&perline=10" alt="Minhas Habilidades" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,postgres,mysql,docker,linux,git,github&perline=9" alt="Minhas Habilidades" />
   </a>
 </p>
 
@@ -32,7 +33,6 @@ Sou um desenvolvedor focado em construir soluções eficientes e escaláveis. Tr
 
 
 ### 📫 Como me encontrar
-
 <p align="left">
   <a href="mailto:igor.oliveirasouzasilva@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -41,3 +41,5 @@ Sou um desenvolvedor focado em construir soluções eficientes e escaláveis. Tr
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+   
