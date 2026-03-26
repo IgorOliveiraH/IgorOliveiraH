@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá, eu sou o Igor! 👋
 
-<!--
-**IgorOliveiraH/IgorOliveiraH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um desenvolvedor apaixonado por tecnologia e automação. Gosto de tirar ideias do papel e transformá-las em sistemas reais, unindo software e hardware quando necessário.
+
+* 🎓 Graduando em **Ciência da Computação** pela Universidade Federal de Uberlândia (UFU).
+* 🎓 Graduado pelo Instituto Federal de Minas Gerais (IFMG) - Técnico em Informática.
+* ⚙️ Experiência no desenvolvimento de aplicações backend, automação de processos e integração entre software e hardware.
+* 🚀 Atualmente aprofundando conhecimentos em arquitetura de sistemas e metodologias de desenvolvimento.
+* 💡 Entusiasta por criar ferramentas que otimizam o tempo e trazem impacto real para os negócios.
+
+<br>
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,git,github,linux&perline=10" alt="Minhas Habilidades" />
+  </a>
+</p>
+
+<br>
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Igor" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
+
+<br>
+
+### 📫 Como me encontrar
+
+<p align="left">
+  <a href="mailto:igor.oliveirasouzasilva@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/igor-s-864491121/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
