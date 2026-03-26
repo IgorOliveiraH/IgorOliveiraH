@@ -1,9 +1,8 @@
 # Olá, eu sou o Igor! 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/UFU-Federal_University_of_Uberlândia-red?style=for-the-badge&logo=google&logoColor=white" alt="UFU Student" />
-  <img src="https://img.shields.io/badge/Computer_Science-Student-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Computer Science" />
-  <img src="https://img.shields.io/badge/Backend_&_Automation-Engineer-blue?style=for-the-badge&logo=cog&logoColor=white" alt="Backend & Automation" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer_Science-Student-blue?style=for-the-badge&logo=education&logoColor=white" alt="Computer Science Student" />
+  <img src="https://img.shields.io/badge/UFU-Federal_University_of_Uberlândia-red?style=for-the-badge&logo=google&logoColor=white" alt="UFU Federal University of Uberlândia" />
 </p>
 
 <br>
